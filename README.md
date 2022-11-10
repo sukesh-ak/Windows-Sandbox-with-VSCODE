@@ -1,4 +1,4 @@
-# Windows-Sandbox-with-VSCODE
+# Windows Sandbox with VS Code Pre-Installed
 ## Script to launch Windows Sandbox with latest VS Code installed
 
 Windows Sandbox needs PRO version of the OS.   
